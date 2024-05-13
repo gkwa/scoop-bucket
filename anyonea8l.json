@@ -1,0 +1,15 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/anyonea8l/releases/download/v0.0.2/anyonea8l_Windows_x86_64.zip",
+            "bin": [
+                "anyonea8l.exe"
+            ],
+            "hash": "ebe8a272c773eac07b47cede656db9950525de403b7f91daed62ba5297ef8508"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/anyonea8l",
+    "license": "MIT",
+    "description": "Description of the anyonea8l project"
+}
