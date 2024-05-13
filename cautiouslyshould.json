@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/taylormonacelli/cautiouslyshould/releases/download/v0.0.1/cautiouslyshould_Windows_x86_64.zip",
+            "bin": [
+                "cautiouslyshould.exe"
+            ],
+            "hash": "d46b1b4b399a523213ab77dead82b8ed48b92701d0de189954f13298a0cebc03"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/cautiouslyshould",
+    "license": "MIT",
+    "description": "Description of the cautiouslyshould project"
+}
