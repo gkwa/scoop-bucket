@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/annuallyis/releases/download/v0.0.1/annuallyis_Windows_x86_64.zip",
+            "bin": [
+                "annuallyis.exe"
+            ],
+            "hash": "1d809e7a3b3b3c845e166beed0fa6af84042cf43a03a1e50779605b6627751e4"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/annuallyis",
+    "license": "MIT",
+    "description": "Description of the annuallyis project"
+}
