@@ -1,0 +1,15 @@
+{
+    "version": "0.0.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/allparadigm/releases/download/v0.0.4/allparadigm_Windows_x86_64.zip",
+            "bin": [
+                "allparadigm.exe"
+            ],
+            "hash": "c45bb4a044d2c9dbc486ab976feca6b3deea130b06d6602154fe7cfe286dd4f4"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/allparadigm",
+    "license": "MIT",
+    "description": "Description of the allparadigm project"
+}
