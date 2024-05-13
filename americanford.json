@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/taylormonacelli/americanford/releases/download/v0.0.1/americanford_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/americanford/releases/download/v0.0.2/americanford_Windows_x86_64.zip",
             "bin": [
                 "americanford.exe"
             ],
-            "hash": "6f68f11e6236b03f959529b2263eb38aae1281c852c0c317260b3af214956267"
+            "hash": "399dea78bec65ab48f59dc1b22770edb0e4a5083873c6220084548eb241724e3"
         }
     },
     "homepage": "https://github.com/taylormonacelli/americanford",
