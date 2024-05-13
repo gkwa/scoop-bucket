@@ -1,0 +1,15 @@
+{
+    "version": "0.0.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/taylormonacelli/bismarckianton/releases/download/v0.0.5/bismarckianton_Windows_x86_64.zip",
+            "bin": [
+                "bismarckianton.exe"
+            ],
+            "hash": "3c8f29dfd24146da0bc357aca670d0818785126693e77c387d066b2804527933"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/bismarckianton",
+    "license": "MIT",
+    "description": "Description of the bismarckianton project"
+}
