@@ -1,12 +1,12 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/taylormonacelli/bismarckianton/releases/download/v0.0.5/bismarckianton_Windows_x86_64.zip",
+            "url": "https://github.com/taylormonacelli/bismarckianton/releases/download/v0.0.7/bismarckianton_Windows_x86_64.zip",
             "bin": [
                 "bismarckianton.exe"
             ],
-            "hash": "3c8f29dfd24146da0bc357aca670d0818785126693e77c387d066b2804527933"
+            "hash": "5f471685609687467683ed0247e0b7b8c790da7667ac73692bdfe03b972d83d2"
         }
     },
     "homepage": "https://github.com/taylormonacelli/bismarckianton",
