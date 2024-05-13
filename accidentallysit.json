@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/taylormonacelli/accidentallysit/releases/download/v0.0.1/accidentallysit_Windows_x86_64.zip",
+            "bin": [
+                "accidentallysit.exe"
+            ],
+            "hash": "c3875ea40570d504cab577b0bcd7f2d639f721bb18676152832e5bd16bc587e7"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/accidentallysit",
+    "license": "MIT",
+    "description": "Description of the accidentallysit project"
+}
