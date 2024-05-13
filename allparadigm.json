@@ -1,12 +1,12 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/allparadigm/releases/download/v0.0.4/allparadigm_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/allparadigm/releases/download/v0.0.6/allparadigm_Windows_x86_64.zip",
             "bin": [
                 "allparadigm.exe"
             ],
-            "hash": "c45bb4a044d2c9dbc486ab976feca6b3deea130b06d6602154fe7cfe286dd4f4"
+            "hash": "b04e34c24bc7f25da837b25d63da76b8b63d036aa5a1512e51943a3e3ab27a42"
         }
     },
     "homepage": "https://github.com/taylormonacelli/allparadigm",
