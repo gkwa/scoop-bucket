@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/taylormonacelli/cautiouslyshould/releases/download/v0.0.1/cautiouslyshould_Windows_x86_64.zip",
+            "url": "https://github.com/taylormonacelli/cautiouslyshould/releases/download/v0.0.2/cautiouslyshould_Windows_x86_64.zip",
             "bin": [
                 "cautiouslyshould.exe"
             ],
-            "hash": "d46b1b4b399a523213ab77dead82b8ed48b92701d0de189954f13298a0cebc03"
+            "hash": "73b66bdd0b376f2d8807581d1f8cd8765283d78212908c7c2689db29d5624432"
         }
     },
     "homepage": "https://github.com/taylormonacelli/cautiouslyshould",
