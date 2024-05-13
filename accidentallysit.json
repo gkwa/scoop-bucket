@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/taylormonacelli/accidentallysit/releases/download/v0.0.1/accidentallysit_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/accidentallysit/releases/download/v0.0.2/accidentallysit_Windows_x86_64.zip",
             "bin": [
                 "accidentallysit.exe"
             ],
-            "hash": "c3875ea40570d504cab577b0bcd7f2d639f721bb18676152832e5bd16bc587e7"
+            "hash": "dd0725dac9dc426da43b86f485ed27ba6d30e12f068aa460899a98aa15646ef6"
         }
     },
     "homepage": "https://github.com/taylormonacelli/accidentallysit",
