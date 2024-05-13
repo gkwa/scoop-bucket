@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/taylormonacelli/anyoneindonesian/releases/download/v0.0.1/anyoneindonesian_Windows_x86_64.zip",
+            "bin": [
+                "anyoneindonesian.exe"
+            ],
+            "hash": "f8cea86bcd2c42cfecb03e3f0a29029680b608fdc33f17ffc3f9a3ab723aa596"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/anyoneindonesian",
+    "license": "MIT",
+    "description": "Description of the anyoneindonesian project"
+}
