@@ -1,0 +1,15 @@
+{
+    "version": "0.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/taylormonacelli/mysite6/releases/download/v0.0.3/mysite6_Windows_x86_64.zip",
+            "bin": [
+                "mysite6.exe"
+            ],
+            "hash": "315ab8ca0666cb8c786887e7a4671ce278b7af194334b35b812758c5a945430c"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/mysite6",
+    "license": "MIT",
+    "description": "Description of the mysite6 project"
+}
