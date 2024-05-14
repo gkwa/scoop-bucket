@@ -1,0 +1,15 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/allrabbit/releases/download/v0.0.2/allrabbit_Windows_x86_64.zip",
+            "bin": [
+                "allrabbit.exe"
+            ],
+            "hash": "4c22acd840a83f6ce1181bf1695d24347e9dd82660ebdfe049cb79defa498f60"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/allrabbit",
+    "license": "MIT",
+    "description": "Description of the allrabbit project"
+}
