@@ -1,12 +1,12 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/abovehave/releases/download/v0.0.3/abovehave_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/abovehave/releases/download/v0.0.5/abovehave_Windows_x86_64.zip",
             "bin": [
                 "abovehave.exe"
             ],
-            "hash": "219b9863855c695557ad9174c2e535b1c9e3d7c0427838601a334ec4e79532d5"
+            "hash": "1101652b13a6232647bd71acf4f3dbce995d98d93680b7df37e4dfacfbca7c1a"
         }
     },
     "homepage": "https://github.com/taylormonacelli/abovehave",
