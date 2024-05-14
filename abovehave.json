@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/abovehave/releases/download/v0.0.1/abovehave_Windows_x86_64.zip",
+            "bin": [
+                "abovehave.exe"
+            ],
+            "hash": "6bad72c655c88d9b463ee47d007cd8abaafaee9f7965f1072ea183d6e8c482cf"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/abovehave",
+    "license": "MIT",
+    "description": "Description of the abovehave project"
+}
