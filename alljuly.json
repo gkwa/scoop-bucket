@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/alljuly/releases/download/v0.0.1/alljuly_Windows_x86_64.zip",
+            "bin": [
+                "alljuly.exe"
+            ],
+            "hash": "fc3e98e89a6fdd566b2addcc8a23e4e2d43541ea03f23b47154c5460151b5d8d"
+        }
+    },
+    "homepage": "https://github.com/taylormonacelli/alljuly",
+    "license": "MIT",
+    "description": "Description of the alljuly project"
+}
