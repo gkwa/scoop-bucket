@@ -1,12 +1,12 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/underbeing/releases/download/v0.0.6/underbeing_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/underbeing/releases/download/v0.0.7/underbeing_Windows_x86_64.zip",
             "bin": [
                 "underbeing.exe"
             ],
-            "hash": "4c54c389fdfb493e17a0b3639691b5923d549b174b15e06fab39407e57bc2e60"
+            "hash": "2d3373d16ccf933552c1c623d76b707ca99075fb5f7f3e5a345091035561a3e7"
         }
     },
     "homepage": "https://github.com/taylormonacelli/underbeing",
