@@ -1,12 +1,12 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/allrabbit/releases/download/v0.0.3/allrabbit_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/allrabbit/releases/download/v0.0.4/allrabbit_Windows_x86_64.zip",
             "bin": [
                 "allrabbit.exe"
             ],
-            "hash": "7a1d81a3db409a61581bdb19a2b9a87a566197ae3efc5e941b8e6a79b39845cc"
+            "hash": "7cc64ce468e06d05ceb650ed6f6c0e00839d95042cea543c2f20714e347e34b4"
         }
     },
     "homepage": "https://github.com/taylormonacelli/allrabbit",
