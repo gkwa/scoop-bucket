@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/greengossip/releases/download/v0.0.1/greengossip_Windows_x86_64.zip",
+            "bin": [
+                "greengossip.exe"
+            ],
+            "hash": "5ff2266c149fb687c28245fcf0e8dc9c1ad27eb0c53f4f2859a93c3a3b06ead2"
+        }
+    },
+    "homepage": "https://github.com/gkwa/greengossip",
+    "license": "MIT",
+    "description": "Description of the greengossip project"
+}
