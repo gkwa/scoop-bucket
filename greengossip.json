@@ -1,12 +1,12 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/greengossip/releases/download/v0.0.3/greengossip_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/greengossip/releases/download/v0.0.4/greengossip_Windows_x86_64.zip",
             "bin": [
                 "greengossip.exe"
             ],
-            "hash": "a5dfdd2592ce909e2be9be4560275fb4fc08cb71139d88d2c4571866c50ed6e9"
+            "hash": "d3d0bca8eafcc00b66f8e62d161d4caaa666b3d275a681e0502bd5d4134b5299"
         }
     },
     "homepage": "https://github.com/gkwa/greengossip",
