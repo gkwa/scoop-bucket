@@ -1,12 +1,12 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/fewport/releases/download/v0.0.2/fewport_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/fewport/releases/download/v0.0.3/fewport_Windows_x86_64.zip",
             "bin": [
                 "fewport.exe"
             ],
-            "hash": "a0f830c6d7410260ab3656b3e1f9c8eb620f3979e6ebaec79f56d8fa3368931a"
+            "hash": "3108340857357acd046aec85a99243c09bff47b2e9490df9816b31dc507e4961"
         }
     },
     "homepage": "https://github.com/gkwa/fewport",
