@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/limejoy/releases/download/v0.0.1/limejoy_Windows_x86_64.zip",
+            "bin": [
+                "limejoy.exe"
+            ],
+            "hash": "1dd9c2b44ba0fb0ec365e86c5dce793a4a224b759ab1cef6408aba0aca6629f3"
+        }
+    },
+    "homepage": "https://github.com/gkwa/limejoy",
+    "license": "MIT",
+    "description": "Description of the limejoy project"
+}
