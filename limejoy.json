@@ -1,12 +1,12 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/limejoy/releases/download/v0.0.6/limejoy_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/limejoy/releases/download/v0.0.7/limejoy_Windows_x86_64.zip",
             "bin": [
                 "limejoy.exe"
             ],
-            "hash": "37118941d1681071d4ffa9515fded823bd1d149ee7fa173e3b4c46c7077804fa"
+            "hash": "030723299cd20a529c22a098678bc75df78940617daff51e8511801a4447f2bc"
         }
     },
     "homepage": "https://github.com/gkwa/limejoy",
