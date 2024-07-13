@@ -1,12 +1,12 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/curiosturkey/releases/download/v0.0.5/curiosturkey_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/curiosturkey/releases/download/v0.0.6/curiosturkey_Windows_x86_64.zip",
             "bin": [
                 "curiosturkey.exe"
             ],
-            "hash": "0abac53eb4ce8ca7f8c4cf21cdad779983cd0e52d8b9e4bbbf3dde822d625e24"
+            "hash": "6bfab9badc6a4a0ea6817ced192f7c14dc13e850e593b5d8006e5c1623e37d88"
         }
     },
     "homepage": "https://github.com/gkwa/curiosturkey",
