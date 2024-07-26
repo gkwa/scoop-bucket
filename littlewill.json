@@ -1,12 +1,12 @@
 {
-    "version": "0.0.11",
+    "version": "0.0.12",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/littlewill/releases/download/v0.0.11/littlewill_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/littlewill/releases/download/v0.0.12/littlewill_Windows_x86_64.zip",
             "bin": [
                 "littlewill.exe"
             ],
-            "hash": "23bdf2bc1ad186ae767a76c2715545d1014b669f5e5d2bfe27e5544b134d944f"
+            "hash": "1a37a4629e23b344a47d81c2a4afdf7f1877c7edce47ae8c6e731b2aa61bbfd1"
         }
     },
     "homepage": "https://github.com/gkwa/littlewill",
