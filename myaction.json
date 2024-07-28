@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/myaction/releases/download/v0.0.1/myaction_Windows_x86_64.zip",
+            "bin": [
+                "myaction.exe"
+            ],
+            "hash": "f93977732950f688b84622a1687e8e78d0f0a385c7a13fddc1211da38fc8572c"
+        }
+    },
+    "homepage": "https://github.com/gkwa/myaction",
+    "license": "MIT",
+    "description": "Description of the myaction project"
+}
