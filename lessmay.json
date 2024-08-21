@@ -1,12 +1,12 @@
 {
-    "version": "0.0.7",
+    "version": "0.0.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/lessmay/releases/download/v0.0.7/lessmay_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/lessmay/releases/download/v0.0.8/lessmay_Windows_x86_64.zip",
             "bin": [
                 "lessmay.exe"
             ],
-            "hash": "5286eeed7bbf291b1836e18bd87d1ce0d8aa9217e55a6f55a468200f23fcd236"
+            "hash": "c8e48cf908ebedd590044da6ed05b86e5b848cb091f52b5ab3e215d578f0afe1"
         }
     },
     "homepage": "https://github.com/gkwa/lessmay",
