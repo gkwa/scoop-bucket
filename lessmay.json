@@ -1,0 +1,15 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/lessmay/releases/download/v0.0.2/lessmay_Windows_x86_64.zip",
+            "bin": [
+                "lessmay.exe"
+            ],
+            "hash": "bc0f317004f246e816c7bb99ca570b58c2ea41d20191dea427a3c10924ffd3df"
+        }
+    },
+    "homepage": "https://github.com/gkwa/lessmay",
+    "license": "MIT",
+    "description": "Description of the lessmay project"
+}
