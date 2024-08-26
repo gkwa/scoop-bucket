@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/nearwait/releases/download/v0.0.1/nearwait_Windows_x86_64.zip",
+            "bin": [
+                "nearwait.exe"
+            ],
+            "hash": "162eb067ef9a3785afa3c5285a51764aa895d25d90eabbeed0aaf68fc11e2994"
+        }
+    },
+    "homepage": "https://github.com/gkwa/nearwait",
+    "license": "MIT",
+    "description": "Description of the nearwait project"
+}
