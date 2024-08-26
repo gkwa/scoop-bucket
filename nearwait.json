@@ -1,12 +1,12 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gkwa/nearwait/releases/download/v0.0.2/nearwait_Windows_x86_64.zip",
+            "url": "https://github.com/gkwa/nearwait/releases/download/v0.0.3/nearwait_Windows_x86_64.zip",
             "bin": [
                 "nearwait.exe"
             ],
-            "hash": "a7611768f7dd6e889eba6729ad135ccf007d0c6f0cb145a3af30d3a7a05bd78f"
+            "hash": "e16281a91e7e968a4281dd3032e43a0c806cb3d40d72de4d3bc4efcc5c88f2f5"
         }
     },
     "homepage": "https://github.com/gkwa/nearwait",
