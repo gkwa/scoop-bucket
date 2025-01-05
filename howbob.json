@@ -1,0 +1,15 @@
+{
+    "version": "0.0.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gkwa/howbob/releases/download/v0.0.8/howbob_Windows_x86_64.zip",
+            "bin": [
+                "howbob.exe"
+            ],
+            "hash": "887149ed8cc349b2f1d73231d762d4e3b2d240fa60c050dc6ada97b2778d1965"
+        }
+    },
+    "homepage": "https://github.com/gkwa/howbob",
+    "license": "MIT",
+    "description": "Description of the howbob project"
+}
